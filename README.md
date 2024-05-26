@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Antonio-Web-Lab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Antonio, Google certificated <b>IT Assistantance Specialist</b>;
 
-<!---
-Antonio-Web-Lab/Antonio-Web-Lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in <b>Computer Science</b>;
+
+🌱 I’m currently learning <b>Data Analytics</b>;
+
+💞️ I’m looking to collaborate on <i>something interesting</i> about <b>Coding and/or Data Analytics</b>;
+
+📫 Reach me at: antonio.web.lab@gmail.com
+
+<b>✨ Special thanks to GitHub Group ✨</b>
+
+" Coming together is a beginning. Keeping together is progress. 
+  Working together is success. " 
+                                                       (H.Ford)
